@@ -1,0 +1,14 @@
+pip install uvicorn
+pip install schemas
+pip install sqlalchemy
+pip install flask 
+pip install fastapi
+pip install dotenv
+pip install psycopg2
+
+.env
+user=postgres.pntokkzjmiovztcyfaoo 
+password=Fruselva-2025
+host=aws-1-us-east-1.pooler.supabase.com 
+port=6543 
+dbname=postgres
